@@ -1,9 +1,9 @@
-const prices = [25, 15, 30, 50, 45, 20];
+import { products } from "./products.js";
 
 let cheap = 0;
 
-for (let current = 0; current < prices.length; current++) {
-  if (prices[current] < prices[cheap]) {
+for (let current = 0; current < products.length; current++) {
+  if (products[current].price < products[cheap].price) {
     cheap = current;
   }
 }
