@@ -17,3 +17,7 @@ A resolução de um problema utilizando algoritmos pode muito bem começar fora 
 A [documentação do MDN sobre o sort()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort) tem vários exemplos sobre os diversos casos de ordenação e como utilizar este método.
 
 Embora cada linguagem faça a implementação usando seus próprios métodos e funções, a lógica por trás do algoritmo permanece a mesma. A forma utilizada neste repositório para implementar o algoritmo com JavaScript não é a única.
+
+`forEach()` é um método de array do JavaScript que percorre o array e executa um bloco de código para cada índice.
+
+Existem ainda outras formas de executar laços de repetição com JavaScript, como `for` e `of`.
