@@ -3,7 +3,7 @@ import { cheapest } from "./cheap.js";
 
 for (
   let currentPosition = 0;
-  currentPosition < products.length;
+  currentPosition < products.length - 1;
   currentPosition++
 ) {
   let currentCheapest = cheapest(products, currentPosition);

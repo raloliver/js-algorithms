@@ -11,3 +11,9 @@ Estas ações podem ser traduzidas em passos lógicos de um código, instruçõe
 **A mesma sequência finita de ações de um algoritmo pode ser utilizada para resolver o mesmo problema em diversas linguagens de programação.**
 
 A resolução de um problema utilizando algoritmos pode muito bem começar fora do código e depois ser “traduzida” para a linguagem de programação de nossa preferência, mas o conceito por trás da solução é o mesmo.
+
+### Sort Selection
+
+A [documentação do MDN sobre o sort()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort) tem vários exemplos sobre os diversos casos de ordenação e como utilizar este método.
+
+Embora cada linguagem faça a implementação usando seus próprios métodos e funções, a lógica por trás do algoritmo permanece a mesma. A forma utilizada neste repositório para implementar o algoritmo com JavaScript não é a única.
